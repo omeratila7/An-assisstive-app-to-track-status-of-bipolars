@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1056884305936",
+    "firebase_url": "https://graduationproject-227ac-default-rtdb.firebaseio.com",
+    "project_id": "graduationproject-227ac",
+    "storage_bucket": "graduationproject-227ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056884305936:android:8c27a1c099593b5b025a95",
+        "android_client_info": {
+          "package_name": "com.example.bitirme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056884305936-9e1bhrocbp1murfiieb73fk1af7j1em4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1YfnJyCE0YaSVXpT7B4CDrpiuJwLU5fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056884305936-9e1bhrocbp1murfiieb73fk1af7j1em4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056884305936:android:39a269fe6c822e33025a95",
+        "android_client_info": {
+          "package_name": "com.example.bitirme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056884305936-9e1bhrocbp1murfiieb73fk1af7j1em4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1YfnJyCE0YaSVXpT7B4CDrpiuJwLU5fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056884305936-9e1bhrocbp1murfiieb73fk1af7j1em4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
